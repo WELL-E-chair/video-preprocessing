@@ -21,7 +21,7 @@ The `cleaning.py` script will generate the cleaned metadata files in `/metadata/
 Then run:
 
 ```bash
-python cleaning.py \
+python preprocessing-daily.py \
   --input_data /path/to/raw/video_folder \
   --local /path/to/local/directory \
   --meta_data /path/to/metadata/cleaned \
