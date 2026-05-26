@@ -28,6 +28,6 @@ python preprocessing-daily.py \
     --input_data "/path/to/preprocessing/video/input/project_name/" \
     --local "/path/to/preprocessing/video/input/" \
     --meta_data "" \
-    --target_date "16MAY2025" \
+    --target_date "DDMMMYYYY" \
     --experiment "project_name" \
     --output_data  "/path/to/preprocessing/video/input/processed/" 

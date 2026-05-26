@@ -182,7 +182,7 @@ if __name__ == '__main__':
         'input_data': os.path.join(os.getcwd() + '/project_name/raw/'),
         'local': os.getcwd(),
         'meta_data': 'debug/',
-        'target_date': '21MAY2025',
+        'target_date': 'DDMMMYYYY',
         'experiment': "project_name",
         'output_data': os.path.join(os.getcwd() + '/processed/'),
         'rotate': False
